@@ -4,7 +4,7 @@
 
 ### Web applications · AI tools · Automation
 
-I build practical software that connects web interfaces, APIs and automated workflows — from business applications to local AI tools and creative projects.
+I build practical software that connects web interfaces, APIs and automated workflows: from business applications to local AI tools and creative projects.
 
 [Explore my projects](https://github.com/woinsilva?tab=repositories)
 
@@ -45,12 +45,12 @@ Ollama · ComfyUI · SDXL · Whisper · FFmpeg · Docker · Git · Godot
 
 ## More to explore
 
-- [SnapGen Middleware](https://github.com/woinsilva/snapgen-middleware) — API gateway for AI video generation, storyboards and sequential video projects.
-- [WSS IT](https://github.com/woinsilva/wss) — Bilingual corporate website with a quote-request API.
-- [Inventory & Sales](https://github.com/woinsilva/controle-estoque) — Inventory, sales and user management with role-based access.
-- [By Talissa](https://github.com/woinsilva/bytalissa) — Beauty services website with treatment details, portfolio and booking links.
-- [Iron Path](https://github.com/woinsilva/iron-path) — A 2D mobile tower-defense prototype built in Godot.
-- [Achadinhos](https://github.com/woinsilva/achadinhos) — Brand and media assets for the Achadinhos affiliate operation.
+- [SnapGen Middleware](https://github.com/woinsilva/snapgen-middleware): API gateway for AI video generation, storyboards and sequential video projects.
+- [WSS IT](https://github.com/woinsilva/wss): Bilingual corporate website with a quote-request API.
+- [Inventory & Sales](https://github.com/woinsilva/controle-estoque): Inventory, sales and user management with role-based access.
+- [By Talissa](https://github.com/woinsilva/bytalissa): Beauty services website with treatment details, portfolio and booking links.
+- [Iron Path](https://github.com/woinsilva/iron-path): A 2D mobile tower-defense prototype built in Godot.
+- [Achadinhos](https://github.com/woinsilva/achadinhos): Brand and media assets for the Achadinhos affiliate operation.
 
 ---
 
